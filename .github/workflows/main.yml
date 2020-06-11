@@ -24,7 +24,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Installing Nodejs
-      uses: actions/setup-nodejs@v2-beta
+      uses: actions/setup-node@v2-beta
       with:
        node-version: 12
 
