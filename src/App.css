@@ -1,9 +1,23 @@
+body{
+    padding: 0;
+}
 .box {
-    width: 500px;
+    padding: 0;
+    width: 1500px;
+    height: 650px;
     background-color: white;
     color: black;
 }
 .nightMode {
     background-color: black;
     color: white;
+}
+.btn{
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+    margin: 10px;
+    background-color: chartreuse;
+    
+
 }
